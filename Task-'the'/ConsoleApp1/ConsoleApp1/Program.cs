@@ -8,13 +8,20 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             #region--4.Task
-            //string myword = "Hello World degb fghbn sth";
-            //int i = 0;
-            //for (i = 0; i < myword.Split(' ').Length; i++)
+            //string myword = "     Hello  sdlkn dslcks     ";
+            //int res = 0;
+            //if (myword[0] != ' ')
             //{
-
+            //    res = 1;
             //}
-            //Console.WriteLine(i);
+            //for (int i = 0; i < myword.Length - 1; i++)
+            //{  
+            //    if (myword[i] == ' ' && myword[i + 1] != ' ')
+            //    {
+            //        res++; 
+            //    }
+            //}
+            //Console.WriteLine(res);
             #endregion
 
             #region--5.Task--1
